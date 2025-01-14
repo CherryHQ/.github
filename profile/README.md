@@ -16,22 +16,7 @@ CherryHQ aims to democratize access to AI tools by creating intuitive, cross-pla
 - **Open-Source Development**: Engaging the developer community to improve and expand Cherry Studio.
 - **Community Engagement**: Building a vibrant community through Telegram, Twitter, and GitHub.
 
-#### **Organization Structure**
-- **Leadership**: Led by experienced developers and AI enthusiasts, including **kangfenmao** (primary maintainer).
-- **Contributors**: A growing network of developers, designers, and AI experts.
-- **Community Support**: Dedicated channels for user support and collaboration.
-
-#### **Community & Collaboration**
-- **Telegram Group**: [Join the Community](https://t.me/CherryStudioAI)
-- **GitHub Repository**: Open-source development with contribution guidelines.
-- **Product Hunt Presence**: Showcasing Cherry Studio’s innovation.
-
 #### **Future Goals**
 - Expand Cherry Studio’s capabilities with more LLM providers and AI tools.
 - Enhance user experience with new features and broader platform support.
 - Foster a global community of AI enthusiasts and developers.
-
-#### **Contact Information**
-- **Telegram**: [Join the Community](https://t.me/CherryStudioAI)
-- **Email**: [kangfenmao@gmail.com](mailto:kangfenmao@gmail.com)
-- **Twitter**: [Follow on Twitter](https://x.com/kangfenmao)
