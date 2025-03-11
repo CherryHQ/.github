@@ -1,6 +1,6 @@
 ### **CherryHQ Organization Overview**
 
-**CherryHQ** is the organization behind **Cherry Studio**, a powerful desktop application that integrates multiple Large Language Model (LLM) providers and AI tools. CherryHQ is committed to making advanced AI technology accessible and user-friendly across Windows, macOS, and Linux platforms.
+**Shanghai Qianhui Technology** is the organization behind **Cherry Studio**, a powerful desktop application that integrates multiple Large Language Model (LLM) providers and AI tools. CherryHQ is committed to making advanced AI technology accessible and user-friendly across Windows, macOS, and Linux platforms.
 
 #### **Mission**
 CherryHQ aims to democratize access to AI tools by creating intuitive, cross-platform solutions that enhance productivity and creativity.
